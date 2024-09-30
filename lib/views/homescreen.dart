@@ -34,7 +34,7 @@ class HomeScreen extends StatelessWidget {
                   height: 7,
                 ),
                 Text(
-                  'Are You ready to bring More Happiness and Calm to your life',
+                  'Are You ready to bring More Happiness and Calm to your life ??',
                   style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
                 ),
                 const SizedBox(
